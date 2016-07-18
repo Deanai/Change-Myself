@@ -1,0 +1,18 @@
+整型：表示整数的数据类型
+int		4个字节
+long	在不同的机器里长度不同
+long long	8个字节
+
+16进制数表示
+int a = 0x11;  a = 17
+
+2进制数表示
+int b = 0b10; b = 2
+
+8进制数表示
+int c = 010;   c =8
+
+无符号的整型可以加
+unsigned 
+如 
+unsigned int 

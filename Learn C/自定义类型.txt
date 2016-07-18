@@ -1,0 +1,2 @@
+typedef char self_char
+typedef int	self_int
